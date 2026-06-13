@@ -1,0 +1,9 @@
+{
+  "name": "好看国产剧",
+  "short_name": "好看国产剧",
+  "description": "汇集国产电影大全等内容，提供视频免费在线点播与高清播放服务，电视剧推荐榜包含热播剧集，便于通过分类与片库浏览资源。",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff7fb",
+  "theme_color": "#f43f5e"
+}
